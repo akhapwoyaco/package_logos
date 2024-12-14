@@ -1,0 +1,5 @@
+"Trade Date","Time","Cur","Size","Price","Trade Type","Book Type"
+"11.10.2023","11:21:55","CHF","10'000",94,"OnExchange","Clob"
+"10.10.2023","16:40:20","CHF","5'000",0.76,"OnExchange","QuoteBook"
+"10.10.2023","16:40:21","CHF","5'000",0.69,"OnExchange","QuoteBook"
+"10.10.2023","11:35:19","CHF","41",14.418,"OnExchange","QuoteBook"
